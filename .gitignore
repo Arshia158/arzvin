@@ -1,0 +1,6 @@
+﻿# Binaries and local releases
+releases/
+*.apk
+*.aab
+.DS_Store
+Thumbs.db
